@@ -1,6 +1,6 @@
 {
     "name": "paged-yql",
-    "description": "My Mojito application - v2",
+    "description": "My Mojito application - v3",
     "version": "0.1.0",
     "contributors": [
           {
@@ -13,4 +13,4 @@
             "version": "*"
         }
     }
-^}
+}

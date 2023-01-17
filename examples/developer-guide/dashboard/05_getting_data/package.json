@@ -1,6 +1,6 @@
 {
     "name": "05_getting_data",
-    "description": "The application regarding getting data in Mojito that accompanies the dashboard tutorial.",
+    "description": "The Application regarding - v2 getting data in Mojito that accompanies the dashboard tutorial.",
     "version": "0.0.1",
     "author": {
         "name": "Your Name",
@@ -13,7 +13,7 @@
           }
     ],
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "dependencies": {
         "debug": "*",
@@ -29,4 +29,4 @@
     "engines": {
         "node": ">0.8.0"
     }
-^}
+}

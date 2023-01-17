@@ -28,7 +28,7 @@
         }
     },
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "engines": {
         "node": "> 0.8",
@@ -42,4 +42,4 @@
     "devDependencies": {
         "mojito-cli": ">= 0.2.0"
     }
-^}
+}

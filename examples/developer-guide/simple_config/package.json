@@ -1,6 +1,6 @@
 {
     "name": "simple_config_test",
-    "description": "My Mojito application - v2",
+    "description": "My Mojito application - v3",
     "version": "0.0.1",
     "author": "Your Name <nobody@yahoo-inc.com>",
     "contributors": [
@@ -10,7 +10,7 @@
           }
     ],
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "dependencies": {
         "mojito": ">= 0.8.0"
@@ -19,4 +19,4 @@
     "engines": {
         "node": "*"
     }
-^}
+}

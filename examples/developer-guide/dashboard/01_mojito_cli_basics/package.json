@@ -1,6 +1,6 @@
 {
     "name": "01_mojito_cli_basics",
-    "description": "The application regarding the Mojito CLI that accompanies the dashboard tutorial.",
+    "description": "The Application regarding - v2 the Mojito CLI that accompanies the dashboard tutorial.",
     "version": "0.0.1",
     "author": {
         "name": "Your Name",
@@ -13,7 +13,7 @@
           }
     ],
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "dependencies": {
         "debug": "*",
@@ -21,8 +21,8 @@
     },
     "devDependencies": {
         "mojito-cli": ">= 0.2.0"
-    },	
+    },
     "engines": {
         "node": ">0.8.0"
     }
-^}
+}

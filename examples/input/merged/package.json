@@ -2,7 +2,7 @@
     "name": "ExamplesInputMerged",
     "version": "0.0.0",
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "dependencies": {
         "debug": "*",
@@ -11,4 +11,4 @@
     "devDependencies": {
         "mojito-cli": ">= 0.2.0"
     }
-^}
+}

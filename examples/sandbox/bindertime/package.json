@@ -1,6 +1,6 @@
 {
     "name": "bindertime",
-    "description": "My Mojito application - v2",
+    "description": "My Mojito application - v3",
     "version": "0.0.1",
     "contributors": [
           {
@@ -20,4 +20,4 @@
     "dependencies": {
         "mojito": "*"
     }
-^}
+}

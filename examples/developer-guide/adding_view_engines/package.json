@@ -1,6 +1,6 @@
 {
     "name": "adding_view_engines",
-    "description": "My Mojito application - v2",
+    "description": "My Mojito application - v3",
     "version": "0.0.1",
     "author": {
         "name": "Your Name",
@@ -24,6 +24,6 @@
         "node": ">= 0.8.0"
     },
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     }
-^}
+}

@@ -1,6 +1,6 @@
 {
     "name": "0_hb_templates",
-    "description": "The application regarding Handlebars, templates, and device views that accompanies the dashboard tutorial.",
+    "description": "The Application regarding - v2 Handlebars, templates, and device views that accompanies the dashboard tutorial.",
     "version": "0.0.1",
     "author": {
         "name": "Your Name",
@@ -13,7 +13,7 @@
           }
     ],
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "dependencies": {
         "debug": "*",
@@ -28,4 +28,4 @@
     "engines": {
         "node": ">0.8"
     }
-^}
+}

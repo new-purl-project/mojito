@@ -20,7 +20,7 @@
            }
     },
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "dependencies": {
         "debug": "*",
@@ -32,4 +32,4 @@
     "engines": {
         "node": "*"
     }
-^}
+}

@@ -1,6 +1,6 @@
 {
     "name": "06_testing",
-    "description": "My Mojito application - v2",
+    "description": "My Mojito application - v3",
     "version": "0.0.1",
     "author": {
         "name": "Your Name",
@@ -13,7 +13,7 @@
           }
     ],
     "scripts": {
-        "start": "node app.js"
+        "start": "node -v3 app.js"
     },
     "dependencies": {
         "debug": "*",
@@ -28,4 +28,4 @@
     "engines": {
         "node": ">0.8"
     }
-^}
+}
